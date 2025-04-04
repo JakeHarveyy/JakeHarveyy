@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JakeHarveyy
 - 👀 I’m interested in AI, Machine Learning and Data Science
-- 🌱 I’m currently Studying a Bachelor of AI 
+- 🌱 I’m currently Studying a Bachelor of AI @ UTS, Sydney Australia
 - 📫 How to reach me (Email | harvey.jake.roy@gmail.com)
 
 <!---
