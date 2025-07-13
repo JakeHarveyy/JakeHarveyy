@@ -13,15 +13,15 @@
 
 What I'm Working On
 
-🎯 NRL Betting Apps - Full-stack applications for H2H betting and testing my models on new data
+🎯 [NRL Betting App](https://nrltipping.vercel.app/) Full-stack applications for H2H betting and testing my models on new data
 
-🏆 Match Predictor - Full AI workflow using logistic regression to predict head-to-head outcomes
+🏆 [Match Predictor](https://github.com/JakeHarveyy/LogisticsRegression-NRLPredictor) - Full AI workflow using logistic regression to predict head-to-head outcomes
 
-🔍 Paraphraser Detector - NLP project for identifying plagiarism in text
+🔍 [Paraphraser Detector](https://github.com/JakeHarveyy/Paraphraser-Detector-) - NLP project for identifying plagiarism in text using BERT
 
-📈 SVM Classifier - Support Vector Machine built from scratch with kernel functionality
+📈 [SVM Classifier](https://github.com/JakeHarveyy/SVM-Classifier-from-First-Principles) - Support Vector Machine built from scratch with kernel functionality and synthetic dataset
 
-🕷️ Sports Data Scrapers - Automated tools for collecting betting odds and match data
+🕷️ Sports Data Scrapers - Automated tools for collecting betting odds and match data via beautifulSoup, Requests, Selenium
 
 ---
 
