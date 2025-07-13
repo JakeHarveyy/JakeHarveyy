@@ -1,5 +1,5 @@
 # Hi there! 👋
-## About Me
+### About Me
 
 🎓 Studying Artificial Intelligence at UTS Sydney
 
@@ -11,7 +11,7 @@
 
 🧠 Always tinkering with new algorithms and models
 
-What I'm Working On
+### What I'm Working On
 
 🎯 [NRL Betting App](https://nrltipping.vercel.app/) Full-stack applications for Head-to-Head betting and testing my models on new data
 
