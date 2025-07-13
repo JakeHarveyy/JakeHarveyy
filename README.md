@@ -13,7 +13,7 @@
 
 What I'm Working On
 
-🎯 [NRL Betting App](https://nrltipping.vercel.app/) Full-stack applications for H2H betting and testing my models on new data
+🎯 [NRL Betting App](https://nrltipping.vercel.app/) Full-stack applications for Head-to-Head betting and testing my models on new data
 
 🏆 [Match Predictor](https://github.com/JakeHarveyy/LogisticsRegression-NRLPredictor) - Full AI workflow using logistic regression to predict head-to-head outcomes
 
