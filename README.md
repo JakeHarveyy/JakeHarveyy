@@ -1,5 +1,5 @@
 # Hi there! 👋
-##About Me
+## About Me
 
 🎓 Studying Artificial Intelligence at UTS Sydney
 
