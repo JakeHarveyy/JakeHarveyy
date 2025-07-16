@@ -17,7 +17,7 @@
 
 🏆 [Match Predictor](https://github.com/JakeHarveyy/LogisticsRegression-NRLPredictor) - Full AI workflow using logistic regression to predict head-to-head outcomes
 
-🔍 [Paraphraser Detector](https://github.com/JakeHarveyy/Paraphraser-Detector-) - NLP project for identifying plagiarism in text using BERT
+🔍 [Paraphraser Detector](https://github.com/JakeHarveyy/Paraphraser-Detector-) - NLP project for identifying plagiarism in text using a BERT model 
 
 📈 [SVM Classifier](https://github.com/JakeHarveyy/SVM-Classifier-from-First-Principles) - Support Vector Machine built from scratch with kernel functionality and synthetic dataset
 
